@@ -1,2 +1,2 @@
 # teacozy
-Off-Platform Project: Tea Cozy
+Tea Cozy Codecademy Project
